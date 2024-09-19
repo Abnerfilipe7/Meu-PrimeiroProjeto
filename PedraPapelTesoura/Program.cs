@@ -27,7 +27,7 @@
                 Console.WriteLine("Empate!");
             else if ((escolhaJogador == "pedra" && escolhaComputador == "tesoura") ||
                      (escolhaJogador == "papel" && escolhaComputador == "pedra") ||
-                     (escolhaJogador == "pesoura" && escolhaComputador == "papel"))
+                     (escolhaJogador == "tesoura" && escolhaComputador == "papel"))
                 Console.WriteLine("Você ganhou!");
             else
                 Console.WriteLine("Você perdeu!");
