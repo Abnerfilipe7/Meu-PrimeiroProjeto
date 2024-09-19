@@ -20,4 +20,4 @@ Nele, o jogador faz uma escolha entre as três opções (pedra, papel e tesoura)
 
 <img src="pedra papel e tesoura.png" alt="Print jogo funcinando">
 
-
+<img src="código.png" alt="Print jogo funcinando">
