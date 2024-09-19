@@ -18,6 +18,6 @@ Nele, o jogador faz uma escolha entre as três opções (pedra, papel e tesoura)
  Caso contrário, o jogo exibe que o jogador perdeu.
  Se o jogador digitar "sair", o loop é interrompido, e o jogo exibe uma mensagem de encerramento antes de terminar.
 
-<img src="pedra papel e tesoura.png" alt="Print jogo funcinando">
+<img src="pedra papel e tesoura.png" alt="Print jogo funcionando">
 
-<img src="código.png" alt="Print jogo funcinando">
+<img src="Código.png" alt="Print jogo funcionando">
