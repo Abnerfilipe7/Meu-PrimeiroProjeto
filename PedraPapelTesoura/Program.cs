@@ -7,6 +7,11 @@
             Console.Write("Escolha (Pedra, Papel ou Tesoura ): ");
             string escolhaJogador = Console.ReadLine().ToLower();
 
+            if (escolhaJogador == "sair"){
+                Console.WriteLine("Jogo Encerrado!!");
+                break;
+            }
+
            
 
             if (Array.IndexOf(opções, escolhaJogador) == -1)
